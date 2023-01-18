@@ -1,3 +1,5 @@
 ini text adam
 
 tambahan text dari si adam
+
+text ini di tambahkan secara langsung di github
