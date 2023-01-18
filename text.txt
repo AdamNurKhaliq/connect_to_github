@@ -1,1 +1,3 @@
 ini text adam
+
+tambahan text dari si adam
